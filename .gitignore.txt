@@ -1,0 +1,6 @@
+node_modules
+public/bower_components
+dist/public/bower_componentsdist/www
+.idea
+npm-debug.log
+*.log
