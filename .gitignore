@@ -49,9 +49,6 @@ Temporary Items
 # Other
 node_modules
 public/bower_components
-dist/public
-dist/www
-.idea
 npm-debug.log
 *.log
 
